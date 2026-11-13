@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Per-sequence sponsoring results (~9 GB; single files exceed GitHub's
+# 100 MB limit). Rebuilt by 2_sponsoring_model/01_master_run.R
+output/sponsoring/rep_*/

@@ -1,0 +1,5 @@
+"hypothesis","Full","Breslow","Dummies","NL effects","Fariss","Fariss dummies","NL Fariss"
+"H1a (all): High HR creates more (all drafts)","(+)","(+)","0","+","0","0","0"
+"H1a (cond.): High HR on condemning drafts","+","+","+","+","0","+","0"
+"H2a (all): Low HR creates more (all drafts)","(+)","(+)","0","(+)","0","0","0"
+"H2a (non-cond.): Low HR on non-condemning drafts","-","-","-","-","0","(-)","0"
